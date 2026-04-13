@@ -39,7 +39,7 @@ Example queries:
 ## Project Structure
 
 ```
-logs-analyzer/
+logs-analyzer-RAG/
 ├── apache_logs.txt      # Raw Apache access log input
 ├── log_analyzer.py      # Stage 1: parse, analyze, and visualize
 ├── rag_logs.py          # Stage 2: semantic search over parsed logs
